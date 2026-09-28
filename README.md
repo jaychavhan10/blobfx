@@ -38,13 +38,7 @@ pip install opencv-python numpy mediapipe
 ## Run with webcam
 
 ```bash
-python bloom.py --src 0
-```
-
-## Run with a video file
-
-```bash
-python bloom.py --src in.mp4 --out out.mp4
+python bloom.py
 ```
 
 ## Run without showing the preview window
